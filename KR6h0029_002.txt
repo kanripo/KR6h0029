@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:02.580990
+#+DATE: 2015-08-30 20:07:04.050627
 #+TITLE: 自在王菩薩經
 #+PROPERTY: CBETA_ID T13n0420
 #+PROPERTY: ID KR6h0029
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 420
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MINGYI
 #+PROPERTY: LASTPB <pb:KR6h0029_T_000-0924b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
-#+PROPERTY: LASTPB <pb:KR6h0029_T_002-0930a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: LASTPB <pb:KR6h0029_T_002-0930a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《自在王菩薩經》卷下¶
+《自在王菩薩經》卷下¶
 ¶
 姚秦三藏鳩摩羅什譯¶
 
@@ -579,6 +578,6 @@
 難：「此經名為『四自在神力』，當奉持之。」
 
 佛說此¶
-已，自在王菩薩及阿難、一切天人，聞佛所說，¶
+經已，自在王菩薩及阿難、一切天人，聞佛所說，¶
 歡喜受持。¶
 《自在王菩薩經》卷下
