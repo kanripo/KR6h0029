@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 自在王菩薩經
+#+DATE: 2015-08-30 20:07:02.764671
+#+PROPERTY: JUAN 0
