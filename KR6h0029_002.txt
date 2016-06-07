@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:04.272441
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:20
 #+TITLE: 自在王菩薩經
 #+PROPERTY: CBETA_ID T13n0420
 #+PROPERTY: ID KR6h0029
