@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:02.580990
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:20
 #+TITLE: 自在王菩薩經
 #+PROPERTY: CBETA_ID T13n0420
 #+PROPERTY: ID KR6h0029
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 13, No. 420
 #+PROPERTY: VOL 13
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6h0029_T_000-0924b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
-#+PROPERTY: LASTPB <pb:KR6h0029_T_002-0930a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
+#+PROPERTY: LASTPB <pb:KR6h0029_T_002-0930a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《自在王菩薩經》卷下¶
+《自在王菩薩經》卷下¶
 ¶
 姚秦三藏鳩摩羅什譯¶
 
@@ -249,7 +248,7 @@
 切聲聞辟支佛之所無有。」
 
 爾時自在王菩薩，¶
-聞佛所說心大喜悅，合掌禮敬，瞻仰尊願¶
+聞佛所說心大喜悅，合掌禮敬，瞻仰尊顏¶
 目不暫捨。作如是言：「世尊！佛今以是四自¶
 在力，一切眾生亦當得是四自在力。」
 
